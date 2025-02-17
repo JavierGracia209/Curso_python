@@ -14,7 +14,7 @@ print(f"El motor girará a {velocidad}% de velocidad.")
 
 #-----------------------------------------------------------------------------------------------------------
 
-# Entrada de pulsos positivos y negativos
+# Entrada de pulsos positivos y negativos p
 pulsos_positivos = int(input("Ingresa la cantidad de pulsos positivos: "))
 pulsos_negativos = int(input("Ingresa la cantidad de pulsos negativos: "))
 
