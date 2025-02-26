@@ -1,5 +1,5 @@
 # Entrada de la presión en psi
-presion = float(input("¿Qué presión lee el sensor en psi?"))
+presion = int(input("¿Qué presión lee el sensor en psi?"))
 
 # Determina la velocidad del motor según la presión
 if presion < 20:
